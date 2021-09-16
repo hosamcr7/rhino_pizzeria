@@ -4,18 +4,25 @@ Challenge Flutter application.
 
 ## Pages
 
-### Login Page
+# Login Page
 
-![image](https://drive.google.com/uc?export=view&id=1f8ykWAHElFcRi7PqPEA0we02ief_2DGb)
 
-### Home Page
+<img src="https://drive.google.com/uc?export=view&id=1f8ykWAHElFcRi7PqPEA0we02ief_2DGb" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
-![image](https://drive.google.com/uc?export=view&id=1V2yOoH-NsRnDdVpeqXhoPJwQRLSaexgQ)
 
-### Add Product Page
+# Home Page
 
-![image](https://drive.google.com/uc?export=view&id=1H9DX4nCSCwQ6QKVPcJcpJwxQGCStfAe_)
 
-### Maps Page
+<img src="https://drive.google.com/uc?export=view&id=1V2yOoH-NsRnDdVpeqXhoPJwQRLSaexgQ" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
-![image](https://drive.google.com/uc?export=view&id=1ZJw2cMSsEZ_3Jzq2kZodFmHwG0AGKVYW)
+
+# Add Product Page
+
+
+<img src="https://drive.google.com/uc?export=view&id=1H9DX4nCSCwQ6QKVPcJcpJwxQGCStfAe_" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+# Maps Page
+
+
+<img src="https://drive.google.com/uc?export=view&id=1ZJw2cMSsEZ_3Jzq2kZodFmHwG0AGKVYW" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
