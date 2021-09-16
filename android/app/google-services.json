@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153927063966",
+    "project_id": "rhino-s-pizzeria-9a17d",
+    "storage_bucket": "rhino-s-pizzeria-9a17d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153927063966:android:3872a38914ebd138dd9e8f",
+        "android_client_info": {
+          "package_name": "com.example.rhino_pizzeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153927063966-5mevfrrqmskmt1mp80thhmn1781pvdf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rhino_pizzeria",
+            "certificate_hash": "80e9c7eaf4e47d9d0be6424ff1dcf6715bd0e27d"
+          }
+        },
+        {
+          "client_id": "153927063966-14k8eifhc591vq7u6ehkc1010fbi05rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq-jRB10OubbTQywNVZZvDCI_KrLIp0Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153927063966-14k8eifhc591vq7u6ehkc1010fbi05rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
