@@ -13,7 +13,7 @@ Challenge Flutter application.
 # Home Page
 
 
-<img src="https://drive.google.com/uc?export=view&id=1V2yOoH-NsRnDdVpeqXhoPJwQRLSaexgQ" style="width: auto; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<img src="https://drive.google.com/uc?export=view&id=1V2yOoH-NsRnDdVpeqXhoPJwQRLSaexgQ" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
 # Add Product Page
